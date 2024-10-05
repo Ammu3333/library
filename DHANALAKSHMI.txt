@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Welcome Screen</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="welcome-container">
+  <h1>Welcome to Our App!<h1>
+  <p>Get started with our amazing features!</
+p>
+ <button class="get-started-btn">Get
+Started</button>
+ </div>
+ <script src="script.js"></script>
+</body>
+</html>
+ 
